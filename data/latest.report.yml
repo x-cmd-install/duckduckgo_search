@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.16.0"
   latestRelease: "v9.16.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:17:42Z
+  collectedAt: 2026-09-09T19:14:08Z
 timeline:
   created: 2021-04-25
   lastCommit: 2026-08-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 2941
+  star: 2947
   watcher: 23
   fork: 281
   release: 216
@@ -86,7 +86,7 @@ total:
   commit: 881
 ---
 path: /home/runner/.x-repo/github.com/deedy5/duckduckgo_search
-collectedAt: 2026-09-09T05:17:42Z
+collectedAt: 2026-09-09T19:14:10Z
 loc:
   Python:
     code: 3058
