@@ -4,7 +4,7 @@
 
 A metasearch library that aggregates results from diverse web search services
 
-![duckduckgo_search](https://repo.x-cmd.io/duckduckgo_search.svg)
+![duckduckgo_search](https://repo.x-cmd.io/duckduckgo_search.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install duckduckgo_search
 
 - **最新版本**: `v9.16.0` (2026-08-26)
 - **最近提交**: 2026-08-26
-- **发布时间**: 2026-08-26T21:52:09Z
 
 ## 流行度
 
-- **Star**: 2,954 · **Fork**: 282 · **开放 issue**: 103 · **贡献者**: 5
+- **Star**: 2,957 · **Fork**: 281 · **开放 issue**: 103 · **贡献者**: 5
 
 ## 累计统计
 
@@ -70,4 +69,4 @@ duckduckgo_search 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:05:43Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:54:16Z._

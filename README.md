@@ -21,11 +21,10 @@ x install duckduckgo_search
 
 - **Latest**: `v9.16.0` (2026-08-26)
 - **Last commit**: 2026-08-26
-- **Published**: 2026-08-26T21:52:09Z
 
 ## Popularity
 
-- **Stars**: 2,954 · **Forks**: 282 · **Open issues**: 103 · **Contributors**: 5
+- **Stars**: 2,957 · **Forks**: 281 · **Open issues**: 103 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for duckduckgo_search lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `duckduckgo_search` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/duckduckgo_search.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/duckduckgo_search.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:05:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:13Z._
