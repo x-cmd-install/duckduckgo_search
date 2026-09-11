@@ -223,4 +223,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 13 are checked with a SAST tool'
 ---
-{"id":377443420,"author":{"login":"deedy5","id":65482418,"node_id":"MDQ6VXNlcjY1NDgyNDE4","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOFYw4d84Wf1Rc","tag_name":"v9.16.0","target_commitish":"main","name":"v9.16.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-26T21:36:05Z","updated_at":"2026-08-26T21:52:09Z","published_at":"2026-08-26T21:52:09Z","assets":[],"body":"* [fix(engines): update and enable Google](https://github.com/deedy5/ddgs/commit/3ea6cbcb652839e578e7842f14c042a83f2d3f4b)\r\n* [fix(engines): update DuckDuckgo](https://github.com/deedy5/ddgs/commit/9f517bc43bc55ce7ca378d3f142e7290bd70e6e2)\r\n\r\n**Full Changelog**: https://github.com/deedy5/ddgs/compare/v9.15.0...v9.16.0"}
