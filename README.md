@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,005 · **Forks**: 286 · **Open issues**: 103 · **Contributors**: 5
+- **Stars**: 3,009 · **Forks**: 286 · **Open issues**: 103 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-13 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-18 | 78 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-10 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-11 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-12 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-14 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-19 | 78 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for duckduckgo_search lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:29:31Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:26:48Z._
