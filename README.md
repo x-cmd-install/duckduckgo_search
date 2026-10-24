@@ -14,11 +14,11 @@ x install duckduckgo_search
 
 ## Code insight
 
-Total: **3,288** lines of code across **36** files in the top 5 languages.
+Total: **3,293** lines of code across **36** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 3,058 | 48 | 547 | 32 |
+| Python | 3,063 | 48 | 549 | 32 |
 | Toml | 150 | 4 | 13 | 1 |
 | Makefile | 32 | 0 | 8 | 1 |
 | Dockerfile | 17 | 9 | 8 | 1 |
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v9.16.0` (2026-08-26)
-- **Last commit**: 2026-08-26
+- **Latest**: `v9.16.1` (2026-10-23)
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 3,026 · **Forks**: 287 · **Open issues**: 104 · **Contributors**: 5
+- **Stars**: 3,029 · **Forks**: 287 · **Open issues**: 104 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 216 · **Merged PRs**: 185 · **Open PRs**: 15 · **Closed issues**: 86 · **Open issues**: 18 · **Commits**: 881
+- **Releases**: 217 · **Merged PRs**: 186 · **Open PRs**: 13 · **Closed issues**: 87 · **Open issues**: 17 · **Commits**: 885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 77 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 78 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for duckduckgo_search lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:17:19Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:57:29Z._
