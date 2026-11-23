@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,076 · **Forks**: 289 · **Open issues**: 108 · **Contributors**: 5
+- **Stars**: 3,080 · **Forks**: 289 · **Open issues**: 109 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 186 · **Open PRs**: 13 · **Closed issues**: 95 · **Open issues**: 13 · **Commits**: 885
+- **Releases**: 217 · **Merged PRs**: 186 · **Open PRs**: 13 · **Closed issues**: 95 · **Open issues**: 14 · **Commits**: 885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-27 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-02 | 74 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-28 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-03 | 74 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for duckduckgo_search lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:31:21Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:20:49Z._
